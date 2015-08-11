@@ -1,6 +1,6 @@
 from __future__ import division
 from miscellaneous.various_stuff import doubledict_to_string, dict_to_string
-from heatmap import HeatMapPolicyMixin
+from heatmap.heatmap import HeatMapPolicyMixin
 
 
 class StochasticProcess(object):

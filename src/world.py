@@ -2,12 +2,12 @@ import time
 import datetime
 
 from miscellaneous.various_stuff import create_dir
-from model.hierarchy import Hierarchy
+from hierarchy.hierarchy import Hierarchy
 
 __author__ = 'wernsdorfer'
 
 
-from agents.agent import NewAgent as Agent
+from agent import NewAgent as Agent
 
 
 class Labyrinth(object):

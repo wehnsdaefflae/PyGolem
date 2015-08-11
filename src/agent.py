@@ -1,7 +1,7 @@
 import os
 import random
 
-from model.hierarchy import HeatMappedHierarchy
+from hierarchy.hierarchy import HeatMappedHierarchy
 from miscellaneous.various_stuff import multi_max
 
 __author__ = 'wernsdorfer'

@@ -2,7 +2,7 @@ from __future__ import division
 import random
 
 from miscellaneous.various_stuff import multi_max
-from processes import MarkovProcess
+from stochastic_process.processes import MarkovProcess
 
 
 class Hierarchy(object):
